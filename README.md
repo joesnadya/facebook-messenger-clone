@@ -1,6 +1,6 @@
 # facebook_messenger_clone
 
-A new Flutter project.
+Creating a design layout for facebook messenger app.
 
 ## Getting Started
 
