@@ -1,6 +1,6 @@
 # facebook_messenger_clone
 
-Creating a design layout for facebook messenger app.
+Design clone for facebook messenger app.
 
 ## Getting Started
 
